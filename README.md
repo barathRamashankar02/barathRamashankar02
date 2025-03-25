@@ -1,7 +1,7 @@
 # Hi there, I’m **Barath Rama Shankar**!
 📍 *Brooklyn, New York*  
 🎓 *M.S. in Computer Engineering, NYU Tandon (GPA: 3.9/4.0)* | *B.Tech. in Computer Science (AI & ML), VIT (GPA: 3.6/4.0)*  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/barath-ramashankar-461791228/) | [**GitHub**](https://github.com/barathRamashankar02)
+🔗 [**LinkedIn**](https://www.linkedin.com/in/barath-ramashankar-461791228/)
 
 ---
 
